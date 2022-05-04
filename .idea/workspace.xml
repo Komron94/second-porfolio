@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c70e5072-975d-41a1-a92d-0879d4863d21" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a7LnHrn4Ms2Po7JkMSUXJVyWbn" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Komronbek\WebstormProjects\SecondPortfilio\images" />
+      <recent name="C:\Users\Komronbek\WebstormProjects\SecondPortfilio\vendor\owlcarusel\js" />
+      <recent name="C:\Users\Komronbek\WebstormProjects\SecondPortfilio\vendor\owlcarusel\css" />
+      <recent name="C:\Users\Komronbek\WebstormProjects\SecondPortfilio\vendor" />
+      <recent name="C:\Users\Komronbek\WebstormProjects\SecondPortfilio\icons" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Komronbek\WebstormProjects\SecondPortfilio\css" />
+      <recent name="C:\Users\Komronbek\WebstormProjects\SecondPortfilio\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c70e5072-975d-41a1-a92d-0879d4863d21" name="Default Changelist" comment="" />
+      <created>1586081851479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586081851479</updated>
+      <workItem from="1586081855322" duration="50702000" />
+      <workItem from="1586256754717" duration="17522000" />
+      <workItem from="1586342640088" duration="831000" />
+      <workItem from="1586361753379" duration="759000" />
+      <workItem from="1586421650513" duration="286000" />
+      <workItem from="1586433447128" duration="604000" />
+      <workItem from="1586434956355" duration="363000" />
+      <workItem from="1586495364893" duration="609000" />
+      <workItem from="1586497720186" duration="96000" />
+      <workItem from="1586583798547" duration="330000" />
+      <workItem from="1586598704958" duration="458000" />
+      <workItem from="1587546994924" duration="40000" />
+      <workItem from="1590428721037" duration="138000" />
+      <workItem from="1592482128156" duration="33000" />
+      <workItem from="1592482924731" duration="212000" />
+      <workItem from="1593724472739" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
